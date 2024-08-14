@@ -6,9 +6,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://galendal.github.io/Jupyter-coursework/repl/index.html?kernel=python&toolbar=1"
-  width="100%"
-  height="500px"**
+➡️ **https://jupyterlite.github.io/demo**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
