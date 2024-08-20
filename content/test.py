@@ -18,7 +18,7 @@ df_ts = ts.TimeSeries(lon=3.73, lat=64.60,start_time='2020-01-01', end_time='202
 
 #%%
 # Import data from thredds.met.no and save it as csv
-#df_ts.import_data(save_csv=True)
+df_ts.import_data(save_csv=True)
 
 #print(df_ts.data)
 # Load data from a local csv-file
