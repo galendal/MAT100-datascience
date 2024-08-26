@@ -7,6 +7,7 @@ content/cache
 .ipynb_checkpoints
 *.tsbuildinfo
 myenv/
+*.png
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
